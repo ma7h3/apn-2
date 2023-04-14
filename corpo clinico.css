@@ -1,0 +1,87 @@
+
+.alpha {
+    background-color: #F9D1AC;
+    text-align: center;
+  
+  }
+  
+  footer{
+    background-color: #F9D1AC;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+  }
+  
+  nav {
+    background-color: #e3b488;
+    text-align: center;
+    font-size: 0, 5cm;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
+  
+  button :hover {
+    color: #e3b488;
+    background-color: black;
+    border-radius: 50px;
+    padding: 8px;
+  }
+  
+  h4 {
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
+  button {
+    width: 200px;
+    height: 30px;
+    background-color: #e3b488;
+    color: #e3b488;
+    border-color: #000000;
+    border-radius: 50px;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
+  button a {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+  }
+  
+  
+  body {
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+  
+  }
+  
+  p {
+    margin: 1cm;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+  }
+  
+  p {
+    margin: 1cm;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+  }
+  
+  
+  .clínica {
+    margin-left: 2cm;
+    margin-right: 2cm;
+  }
+  
+  h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1cm;
+  }
+  
+  .imagens img {
+    width: 5cm;
+    margin: 0;
+  }
+
+h1{
+  
+   justify-items: center;
+}
